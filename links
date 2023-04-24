@@ -1,2 +1,4 @@
 GET URL- https://jsonplaceholder.typicode.com/users 
 POST URL- https://jsonplaceholder.typicode.com/users?id=1
+PUT URL- https://jsonplaceholder.typicode.com/users/9
+DELETE URL- https://jsonplaceholder.typicode.com/posts/1
